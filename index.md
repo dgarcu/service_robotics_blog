@@ -4,10 +4,10 @@ title: Index
 nav_exclude: true
 ---
 
-# 🤖 Service Robotics Blog
+# 🤖 Service Robotics Blog 🏠
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dgarcu/mobile_robotics_blog/master/assets/img/logo.png" />
+  <img src="https://raw.githubusercontent.com/dgarcu/service_robotics_blog/master/assets/img/logo.png" />
 </p>
 
 ___
